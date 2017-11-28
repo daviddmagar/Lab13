@@ -13,6 +13,7 @@ public class buttonFrameTest {
 				ButtonFrame frame = new ButtonFrame();
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setVisible(true);
+				frame.setTitle("Color Generator");
 			}
 		}
 );
